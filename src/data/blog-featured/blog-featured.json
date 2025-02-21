@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "image": "assets/img/banner/b4.webp",
+    "category": ["Ring", "pendant"],
+    "title": "Lorem Ipsum is simply dummy ",
+    "url": "/blog-details-standard",
+    "author": "Admin",
+    "authorUrl": "/blog-standard"
+  },
+  {
+    "id": 2,
+    "image": "assets/img/banner/b5.webp",
+    "category": ["bracelet"],
+    "title": "Lorem Ipsum is simply dummy ",
+    "url": "/blog-details-standard",
+    "author": "Admin",
+    "authorUrl": "/blog-standard"
+  },
+  {
+    "id": 3,
+    "image": "assets/img/banner/b6.jpg",
+    "category": ["Bangels"],
+    "title": "Lorem Ipsum is simply dummy ",
+    "url": "/blog-details-standard",
+    "author": "Admin",
+    "authorUrl": "/blog-standard"
+  }
+]

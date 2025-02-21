@@ -1,0 +1,500 @@
+[
+  {
+    "id": "2",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Bracelet", "Jewellery", "Silver"],
+    "tag": ["Bracelet"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525017/jewellery/bracelet5-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525017/jewellery/bracelet5-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525026/jewellery/bracelet5-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525017/jewellery/bracelet5-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "22",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Rings", "Jewellery", "Silver"],
+    "tag": ["Rings"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524724/jewellery/ring1-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524724/jewellery/ring1-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524724/jewellery/ring1-b.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "7",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Anklet","Gold"],
+    "tag": ["Anklet"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524966/jewellery/anklet2-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524970/jewellery/anklet2-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524971/jewellery/anklet2-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524971/jewellery/anklet2-d.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  }, 
+  {
+    "id": "16",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Chain", "Jewellery", "Gold"],
+    "tag": ["Chain"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524804/jewellery/chain3-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524804/jewellery/chain3-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524804/jewellery/chain3-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  
+  {
+    "id": "19",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Rings", "Jewellery", "Gold"],
+    "tag": ["Rings"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524726/jewellery/ring5-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524726/jewellery/ring5-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524725/jewellery/ring5-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524726/jewellery/ring5-d.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "9",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Necklace", "Jewellery", "Silver"],
+    "tag": ["Necklace"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524890/jewellery/necklace5-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524891/jewellery/necklace5-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524891/jewellery/necklace5-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524896/jewellery/necklace5-d.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "10",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Necklace", "Jewellery", "Gold"],
+    "tag": ["Necklace"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524890/jewellery/necklace4-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524885/jewellery/necklace4-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524884/jewellery/necklace4-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },   
+  {
+    "id": "4",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Bracelet", "Jewellery", "Gold"],
+    "tag": ["Bracelet"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525006/jewellery/bracelet3-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525003/jewellery/bracelet3-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525002/jewellery/bracelet3-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524998/jewellery/bracelet3-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "15",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Ear Rings", "Jewellery", "Gold"],
+    "tag": ["Ear Rings"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524830/jewellery/earRings1-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524830/jewellery/earRings1-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "21",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Rings", "Jewellery"],
+    "tag": ["Rings"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524726/jewellery/ring2-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524725/jewellery/ring2-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524725/jewellery/ring2-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524725/jewellery/ring2-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "11",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Necklace", "Jewellery", "Gold"],
+    "tag": ["Necklace"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524884/jewellery/necklace3-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524884/jewellery/necklace3-e.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524880/jewellery/necklace3-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524879/jewellery/necklace3-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524878/jewellery/necklace3-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "12",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Necklace", "Jewellery","Silver"],
+    "tag": ["Necklace"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524874/jewellery/necklace2-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524873/jewellery/necklace2-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524873/jewellery/necklace2-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524873/jewellery/necklace2-b.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "13",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Necklace", "Jewellery", "Silver"],
+    "tag": ["Necklace"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524867/jewellery/necklace1-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524866/jewellery/necklace1-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524866/jewellery/necklace1-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524866/jewellery/necklace1-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  
+  {
+    "id": "6",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Bracelet", "Jewellery", "Gold"],
+    "tag": ["Bracelet"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524988/jewellery/bracelet1-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524986/jewellery/bracelet1-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524986/jewellery/bracelet1-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524986/jewellery/bracelet1-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "3",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Bracelet", "Jewellery", "Gold"],
+    "tag": ["Bracelet"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525016/jewellery/bracelet4-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525010/jewellery/bracelet4-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525010/jewellery/bracelet4-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525007/jewellery/bracelet4-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "23",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Rings", "Jewellery", "Silver"],
+    "tag": ["Rings"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524725/jewellery/ring3-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524724/jewellery/ring3-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524724/jewellery/ring3-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524726/jewellery/ring3-c.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "1",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Bracelet", "Jewellery"],
+    "tag": ["Bracelet"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525036/jewellery/bracelet6-d.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525028/jewellery/bracelet6-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525027/jewellery/bracelet6-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739525027/jewellery/bracelet6-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "14",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Ear Rings", "Jewellery", "Gold"],
+    "tag": ["Ear Rings"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524831/jewellery/earRings2-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524831/jewellery/earRings2-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524831/jewellery/earRings2-c.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "17",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Chain", "Jewellery", "Gold"],
+    "tag": ["Chain"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524803/jewellery/chain2-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524803/jewellery/chain2-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524804/jewellery/chain2-c.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "18",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Chain", "Jewellery", "Silver"],
+    "tag": ["Chain"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524803/jewellery/chain1-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524803/jewellery/chain1-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  }, 
+  {
+    "id": "8",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Anklet","Silver"],
+    "tag": ["Anklet"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524961/jewellery/anklet1-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524961/jewellery/anklet1-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524962/jewellery/anklet1-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524962/jewellery/anklet1-d.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  }, 
+  {
+    "id": "20",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Rings", "Jewellery", "Gold"],
+    "tag": ["Rings"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524724/jewellery/ring4-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524726/jewellery/ring4-a.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "5",
+    "sku": "asdf123",
+    "name": "Lorem Ipsum is simply dummy ",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Bracelet", "Jewellery"],
+    "tag": ["Bracelet"],
+
+    "image": [
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524992/jewellery/bracelet2-a.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524993/jewellery/bracelet2-b.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524995/jewellery/bracelet2-c.jpg",
+      "https://res.cloudinary.com/dugiurhqm/image/upload/v1739524996/jewellery/bracelet2-d.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  }
+]
